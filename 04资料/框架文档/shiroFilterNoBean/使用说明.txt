@@ -1,0 +1,5 @@
+出现 No bean named 'shiroFilter' is defined的解决办法
+
+1. 替换web.xml和spring-context.xml
+
+2. 将mybatis.xml拷贝到src/main/resources目录下。
