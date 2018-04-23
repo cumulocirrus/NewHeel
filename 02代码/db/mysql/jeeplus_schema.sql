@@ -15,11 +15,11 @@
 
 
 --
--- Create schema jeeplus_schema
+-- Create schema music
 --
 
-CREATE DATABASE IF NOT EXISTS jeeplus_schema;
-USE jeeplus_schema;
+CREATE DATABASE IF NOT EXISTS music;
+USE music;
 
 --
 -- Definition of table `calendar`
